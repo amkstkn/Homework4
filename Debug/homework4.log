@@ -1,0 +1,4 @@
+﻿  homework4.cpp
+C:\GB\OsnovaC\Homework4\homework4.cpp(12,12): warning C4804: <: небезопасное использование типа "bool" в операции
+C:\GB\OsnovaC\Homework4\homework4.cpp(58,16): warning C4804: <: небезопасное использование типа "bool" в операции
+  homework4.vcxproj -> C:\GB\OsnovaC\Homework4\Debug\homework4.exe
